@@ -102,3 +102,31 @@ To secure a cybersecurity internship and grow into a SOC Analyst role by continu
 ## 🤝 Let’s Connect
 
 If you're a recruiter or professional in cybersecurity, I’m always open to learning opportunities, feedback, and collaboration.
+
+## Cybersecurity Homelab Experience
+
+4/29/2026
+Recently began building a hands-on cybersecurity homelab using Ubuntu Linux in Oracle VirtualBox.
+
+Current areas of practice include:
+- Configuring firewall rules with UFW
+- Monitoring network traffic using Wireshark
+- Understanding TCP/IP communication
+- Allowing and denying ports/services
+- Basic network hardening
+- Packet analysis and protocol inspection
+
+Ports and services explored:
+- 22 (SSH)
+- 80/443 (HTTP/HTTPS)
+- 21 (FTP)
+- 23 (Telnet)
+- 3389 (RDP)
+- 445 (SMB)
+
+Tools used:
+- Ubuntu Linux
+- Wireshark
+- UFW Firewall
+- Oracle VirtualBox
+- Nmap
